@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\bin\Debug\net6.0\ExtremamenteBbasico.exe
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\bin\Debug\net6.0\ExtremamenteBbasico.deps.json
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\bin\Debug\net6.0\ExtremamenteBbasico.runtimeconfig.json
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\bin\Debug\net6.0\ExtremamenteBbasico.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\bin\Debug\net6.0\ExtremamenteBbasico.pdb
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\refint\ExtremamenteBbasico.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.pdb
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ExtremamenteBbasico.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\ExtremamenteBbasico\obj\Debug\net6.0\ref\ExtremamenteBbasico.dll

@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\bin\Debug\net6.0\Media1.exe
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\bin\Debug\net6.0\Media1.deps.json
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\bin\Debug\net6.0\Media1.runtimeconfig.json
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\bin\Debug\net6.0\Media1.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\bin\Debug\net6.0\Media1.pdb
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\refint\Media1.dll
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.pdb
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\Media1.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\projetos\beecrowd\Media1\obj\Debug\net6.0\ref\Media1.dll
