@@ -5,12 +5,13 @@ class URI {
     static void Main(string[] args) { 
         Console.Clear();
 
+        double a, b, c;
 
         string[] entrada = Console.ReadLine().Split();
 
-        double a = double.Parse(entrada[0]);
-        double b = double.Parse(entrada[1]);
-        double c = double.Parse(entrada[2]);
+         a = double.Parse(entrada[0]);
+         b = double.Parse(entrada[1]);
+         c = double.Parse(entrada[2]);
 
     
         Console.WriteLine($"Number = {a} Salario = {b*c}");
